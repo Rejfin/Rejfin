@@ -1,9 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 - I am a passionate programmer who loves to learn new things. 
 - I started my programming adventure with Python, but the real pleasure gives me creating applications for Android.
-- Currently I learn how to use Flutter maybe this is the technology of the future? And who knows what else I will learn :D
 
-<h2 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools: </h2>
+<h2 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height= 32px> Languages and Tools: </h2>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -33,7 +32,7 @@
 
 <br>
 
-<h2><img src ="https://user-images.githubusercontent.com/64009728/153172598-264462f8-2402-41fe-a386-b81e814a5db6.gif" width = 32px> My stats</h2>
+<h2><img src ="https://user-images.githubusercontent.com/64009728/153172598-264462f8-2402-41fe-a386-b81e814a5db6.gif" width = 32px height = 32px> My stats</h2>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Rejfin&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Rejfin" 
